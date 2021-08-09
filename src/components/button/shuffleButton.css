@@ -1,0 +1,15 @@
+._button {
+  width: 150px;
+  height: 50px;
+  background: #cc7355;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  margin: 50px;
+}
+.play_game {
+  margin-top: 10px;
+}
+.play_game > p {
+  font-weight: bold;
+}

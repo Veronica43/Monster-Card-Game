@@ -1,0 +1,20 @@
+._cardContainer {
+  width: 192px;
+  height: 192px;
+  border-radius: 14px;
+  display: inline-block;
+  margin-top: 100px;
+  margin-left: 20px;
+}
+
+._card_image {
+  width: 100px;
+  position: absolute;
+  transform: translate(-50%, -50%);
+}
+.monster_name {
+  display: flex;
+  justify-content: center;
+  margin-top: 90px;
+  font-weight: bold;
+}
